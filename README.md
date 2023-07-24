@@ -1,2 +1,2 @@
 # VoiceFuse
-Bidirectional Voice Translation Mobile app made with Deep Learning and FLutter
+Bidirectional Voice Translation Mobile app made with Flutter and Deep Learning.
