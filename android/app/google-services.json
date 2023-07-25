@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465880685316",
+    "project_id": "voicefuse-e6a23",
+    "storage_bucket": "voicefuse-e6a23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465880685316:android:6fc87a7dd5a9ce17d2ce51",
+        "android_client_info": {
+          "package_name": "com.example.voicefuse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465880685316-48cfs4oe4jdaia6a7t5qfogvkf6la4g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg7Ig54yh3nPIaOFo-BelIuFWHHbz3sDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465880685316-48cfs4oe4jdaia6a7t5qfogvkf6la4g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
